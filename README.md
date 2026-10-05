@@ -20,6 +20,24 @@ Currently building and exploring **machine learning, LLM applications, and backe
 
 **Cloud & DevOps:** AWS · GCP · Azure · Docker · Git · Linux
 
+---
+
+## 🚀 Featured Projects
+
+### 🗣️ Language Mirror — Voice-First AI Language Tutor
+
+An AI-powered language learning application that enables real-time conversational practice with voice.
+
+- 🎙️ Real-time speech recognition with Google Cloud Speech-to-Text
+- 🤖 AI-powered corrections and roleplay using Gemini on Vertex AI
+- 🔊 Natural voice responses with ElevenLabs
+- ☁️ Backend deployed on Google Cloud Run
+
+**Tech:** React · Node.js · Hono · Gemini · Vertex AI · Google Cloud · ElevenLabs
+
+[View Project](https://github.com/sugarcho/language-mirror-gemini) · [Live Demo](https://language-mirror-gemini.vercel.app/)
+
+
 <!--
 **sugarcho/sugarcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
