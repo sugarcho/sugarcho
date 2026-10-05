@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Cho 👋
+
+🎓 Master's student in **Applied AI at Northeastern University**  
+💻 Background in **Backend Development & AI Software Engineering**  
+🔎 Currently seeking **Software Engineering / AI Engineering Co-op opportunities**
+
+I'm interested in building practical applications at the intersection of **backend engineering and AI**.
+
+Currently exploring **machine learning, LLM applications, and backend systems** through graduate projects, hackathons, and hands-on development.
 
 <!--
 **sugarcho/sugarcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
